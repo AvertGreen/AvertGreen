@@ -4,7 +4,7 @@
 - 🧑🏼‍💻 I'm Data Scientist
 - 🔥 I know wich way to hold the soldering iron 
 - 🐈‍⬛ I like cats and electronic rock music 🎵
-- 🤖 AGI is the future
+- 🤖 AGI solved intelligence. Now we face the real challenge — coexistence.
 - 📧 *Reach me by:*
 <div id="socials" align="left">
     <a href="https://www.linkedin.com/in/alexey-grin/">
